@@ -1,1 +1,1 @@
-This repo is for my own projects.
+This repo is for my personal projects.
